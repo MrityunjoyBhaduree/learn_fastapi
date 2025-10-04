@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Rahim Uddin",
+    "city": "Dhaka",
+    "age": 28,
+    "gender": "Male",
+    "height": 170,
+    "weight": 68,
+    "bmi": 23.5,
+    "verdict": "Normal"
+  },
+  "P002": {
+    "name": "Anika Rahman",
+    "city": "Chittagong",
+    "age": 32,
+    "gender": "Female",
+    "height": 160,
+    "weight": 72,
+    "bmi": 28.1,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Hasan Ali",
+    "city": "Khulna",
+    "age": 45,
+    "gender": "Male",
+    "height": 175,
+    "weight": 90,
+    "bmi": 29.4,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Mitu Akter",
+    "city": "Rajshahi",
+    "age": 24,
+    "gender": "Female",
+    "height": 155,
+    "weight": 45,
+    "bmi": 18.7,
+    "verdict": "Normal"
+  },
+  "P005": {
+    "name": "Sajid Khan",
+    "city": "Sylhet",
+    "age": 36,
+    "gender": "Male",
+    "height": 180,
+    "weight": 100,
+    "bmi": 30.9,
+    "verdict": "Obese"
+  }
+}
